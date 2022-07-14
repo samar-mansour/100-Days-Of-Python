@@ -1,5 +1,5 @@
 <p align="center">
-<img width="" src="https://media.giphy.com/media/kPVTbiTORIopy/giphy.gif" align="center" alt="gif" />
+<img width="" src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif" align="center" alt="gif" />
 <h1 align="center">100 Days of Python 🐍 
     <a href="https://www.linkedin.com/in/samar-mansour-4a0580144" /> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
